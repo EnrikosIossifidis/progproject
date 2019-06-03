@@ -1,4 +1,4 @@
-## Road to Reduction
+## Project proposal: Road to Reduction
 
 ### Problem Statement:
 
