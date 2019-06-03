@@ -1,4 +1,6 @@
-## Project proposal: Road to Reduction
+#### Enrikos Iossifidis 10805672
+
+## Project proposal: Road to Reduction 
 
 ### Problem Statement:
 
