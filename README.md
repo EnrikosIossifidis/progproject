@@ -22,13 +22,13 @@ Amount of emissions fossil-fuel based power plants:
 https://www.cbs.nl/nl-nl/nieuws/2018/19/uitstoot-broeikasgassen-in-2017-licht-afgenomen
 https://themasites.pbl.nl/balansvandeleefomgeving/jaargang-2018/themas/energie-klimaat-lucht/emissies-broeikasgassen
 
-External components:
+### External components:
 d3-legend
 d3-tip
 
-#### Similar example: 
+### Similar example: 
 
-#### Hardest parts:
+### Hardest parts:
 
 -Turn given 'Road to reduction' table into a dataset to generate a heat and line graph with it;
 -Create heat table (new data visualisation for me);
