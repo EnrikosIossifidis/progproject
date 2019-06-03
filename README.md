@@ -13,14 +13,14 @@ This vizualisation attempts to give a clear view of what the impact of the chose
 ### Data Sources:
 
 #### Heat map:
-Wind hours: http://projects.knmi.nl/klimatologie/daggegevens/selectie.cgi (vink FHVEC aan)
-Sun hours: http://projects.knmi.nl/klimatologie/daggegevens/selectie.cgi (vink SQ aan)
+* Wind hours: http://projects.knmi.nl/klimatologie/daggegevens/selectie.cgi (vink FHVEC aan)
+* Sun hours: http://projects.knmi.nl/klimatologie/daggegevens/selectie.cgi (vink SQ aan)
 
 #### Line graph:
-Calculate what how much energy "one unit" of wind, solar or nuclear power produces:
+* Calculate what how much energy "one unit" of wind, solar or nuclear power produces:
 https://www.clo.nl/indicatoren/nl0019-inzet-energiedragers-en-bruto-elektriciteitsproductie
 
-Amount of emissions fossil-fuel based power plants:
+* Amount of emissions fossil-fuel based power plants:
 https://www.cbs.nl/nl-nl/nieuws/2018/19/uitstoot-broeikasgassen-in-2017-licht-afgenomen
 https://themasites.pbl.nl/balansvandeleefomgeving/jaargang-2018/themas/energie-klimaat-lucht/emissies-broeikasgassen
 
