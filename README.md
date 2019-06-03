@@ -32,7 +32,7 @@ d3-tip
 
 ### Hardest parts:
 
--Turn given 'Road to reduction' table into a dataset to generate a heat and line graph with it;
--Create heat table (new data visualisation for me);
--Generate circle and heat graph when a point on the line graph is clicked.
+..*Turn given 'Road to reduction' table into a dataset to generate a heat and line graph with it;
+..*Create heat table (new data visualisation for me);
+..*Generate circle and heat graph when a point on the line graph is clicked.
 
