@@ -8,4 +8,8 @@ Solution:
 
 This vizualisation attempts to give a clear view of what the impact of the chosen policy will be on emmission reduction. The user can design it's own 'Road to Reduction' by chosing when and how much you invest in which source of energy (wind-, solar- and nuclear power). 
 
+Data Sources:
 
+Heat map:
+Winduren: http://projects.knmi.nl/klimatologie/daggegevens/selectie.cgi (vink FHVEC aan)
+Zonuren: http://projects.knmi.nl/klimatologie/daggegevens/selectie.cgi (vink SQ aan)
