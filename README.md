@@ -9,6 +9,21 @@ Everyone has met a person once who talks about wines like he is the only connais
 
 This vizualisation attempts to give a clear view of where you will find per sort wine, the most and the best ones (of which are reviewed). 
 
+### Minimum valuable product
+
+* The user can pick a year (with a timeslide) and price category (checkbox for each category)
+* Bubble chart with a bubble per country. The size of the bubble depends on how many wines are from the country in the dataset, which is based on user's choices. 
+* The bubble size per country changes per year and price category, but the total cluster of bubbles stays together.
+* A bubble's tip shows the name of the country and amount of wines from that country in the data selection.
+* Histogram that shows how many wines there are in each price category in the country that is clicked in the bubble chart. The bars from the histogram change dynamically.
+* Donut chart which shows that shows the distribution of type of grapes in a country which are reviewed.
+
+#### Optional
+
+* The bubbles move dynamically.
+* A bubble's tip shows beside name and amount of wines (minimum) also the top 5 of most used wine characteristics to describe the wine.
+* Make the donut chart into rose chart. With the frequency of wine sort as the breadth of the circle's slice and the height of the average wine sort score.
+
 ### Data Sources:
 
 https://www.kaggle.com/zynicide/wine-reviews/downloads/wine-reviews.zip/4
