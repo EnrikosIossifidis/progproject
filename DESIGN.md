@@ -20,7 +20,8 @@ The following information is needed from the dataset (including way of filtering
 * sort of wine (thirteenth column): Retrieve sort of wine from dataset and assign it to wine.
 
 
-* For the dynamic bubble chart with different bubble sizes, some aspects of the two examples below will be used:
+
+For the dynamic bubble chart with different bubble sizes, some aspects of the two examples below will be used:
 https://bl.ocks.org/HarryStevens/27a440b621960899f4584034919aa9f7
 https://bl.ocks.org/maegul/7d8e7342c649fdc077a6984e52da4b62
 
