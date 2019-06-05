@@ -1,8 +1,3 @@
-
-    a diagram with an overview of the technical components of your app (visualizations, scraper etc etc)
-
-    as well as descriptions of each of the components and what you need to implement these
-
 ## Design Document
 
 ### List of data sources
@@ -22,8 +17,8 @@ The following information is needed from the dataset (including way of filtering
 
 
 For the dynamic bubble chart with different bubble sizes, some aspects of the two examples below will be used:
-https://bl.ocks.org/HarryStevens/27a440b621960899f4584034919aa9f7
-https://bl.ocks.org/maegul/7d8e7342c649fdc077a6984e52da4b62
+* https://bl.ocks.org/HarryStevens/27a440b621960899f4584034919aa9f7
+* https://bl.ocks.org/maegul/7d8e7342c649fdc077a6984e52da4b62
 
 Optional
 * Most used wine characteristics (third column): Count all words in data selection of the user and make a top 5 of terms that are typical wine descriptor words.
