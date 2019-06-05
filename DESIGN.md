@@ -8,26 +8,19 @@
 
     a list of APIs or D3 plugins that you will be using to provide functionality in your app
 
-# List of data sources
+### List of data sources
 
-Emissions of power plants based on coal and gas:
+https://www.kaggle.com/zynicide/wine-reviews/downloads/wine-reviews.zip/4
 
-Sources:
-https://nl.wikipedia.org/wiki/Lijst_van_elektriciteitscentrales_in_Nederland
-https://www.emissieautoriteit.nl/documenten/publicatie/2018/04/03/emissiecijfers-industrie-2013-2017
+The following information is needed from the dataset (including way of filtering and transforming):
+* wine number (first column): Assign wine number to wine.
+* country of wine (second column): Retrieve wine's country from dataset and assign it to wine.
+* points (fifth column): Retrieve wine's points from dataset and assign it to wine.
+* price (sixth column): Retrieve wine's price from dataset and assign it to wine.
+* year (twelfth column): Filter year uit of wine's title by checking which word in title is an integer.
+* sort of wine (thirteenth column): Retrieve sort of wine from dataset and assign it to wine.
 
-Filter & Transform:
-1. From the list power plants, choose the gas- and coal- based power plants. 
-2. Search (by hand) how much 
-how much emissions each power plant
+optional
+* Most used wine characteristics (third column): Count all words in data selection of the user and make a top 5 of terms that are typical wine descriptor words.
 
-Electricity produced by coal and gas power plants:
-http://energieinnederland.nl/2013-2017 
-
-Filter & Transform:
-1. Put electricity produced by coal and gas plants by hand in table
-
-Wind energy produced:
-
-Amount of wind:
-
+### List of APIs or D3 plugins
