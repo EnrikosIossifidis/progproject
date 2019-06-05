@@ -16,13 +16,13 @@ This vizualisation attempts to give a clear view of where you will find per sort
 * The bubble size per country changes per year and price category, but the total cluster of bubbles stays together.
 * A bubble's tip shows the name of the country and amount of wines from that country in the data selection.
 * Histogram that shows how many wines there are in each price category in the country that is clicked in the bubble chart. The bars from the histogram change dynamically.
-* Donut chart which shows that shows the distribution of type of grapes in a country which are reviewed.
+* Donut chart which shows that shows the distribution of type of grapes in a country which are reviewed (of all score categories).
 
 #### Optional
 
 * The bubbles move dynamically.
 * A bubble's tip shows beside name and amount of wines (minimum) also the top 5 of most used wine characteristics to describe the wine.
-* Make the donut chart into rose chart. With the frequency of wine sort as the breadth of the circle's slice and the height of the average wine sort score.
+* Make dropdown for donut chart so that you can choose between score category from the histogram.
 
 ### Data Sources:
 
