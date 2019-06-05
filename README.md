@@ -37,17 +37,17 @@ https://www.kaggle.com/zynicide/wine-reviews/downloads/wine-reviews.zip/4
 
 ### Similar example: 
 
-Packed bubble chart and timeline:
+#### Packed bubble chart and timeline:
 http://vallandingham.me/bubble_cloud/#mind 
 
 They have implemented it by using by using bootstrap, css and coffeescript package. My ambitions are to first make a self made static packed bubble chart with self made tip. And that the bubbles' sizes change if you swipe over the timeline. And I want to give myself a try to program an easy cluster algorithm. To make it smooth and dynamic is optional for me.
 
-Histogram:
+#### Histogram:
 http://bl.ocks.org/nnattawat/8916402
 
 They used no extraordinary libraries other than d3 and css.
 
-Dynamic donut chart:
+#### Dynamic donut chart:
 https://bl.ocks.org/mbhall88/22f91dc6c9509b709defde9dc29c63f2
 
 Complexer than the histogram, but I think it is not impossible to make a changing donut charts by myself.
