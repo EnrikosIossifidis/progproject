@@ -34,6 +34,8 @@ https://www.kaggle.com/zynicide/wine-reviews/downloads/wine-reviews.zip/4
 * d3-tooltip
 * d3-bar
 * d3-labeler
+* d3-pack
+* d3-force
 
 ### Similar example: 
 
