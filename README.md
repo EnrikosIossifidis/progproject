@@ -11,7 +11,7 @@ This vizualisation attempts to give a clear view of where you will find per sort
 
 ### Minimum valuable product
 
-* The user can pick a year (with a timeslide) and price category (checkbox for each category)
+* The user can pick a year (with two dropdown's menu's (from 'year' to 'year')) and price category (checkbox for each category)
 * Bubble chart with a bubble per country. The size of the bubble depends on how many wines are from the country in the dataset, which is based on user's choices. 
 * The bubble size per country changes per year and price category, but the total cluster of bubbles stays together.
 * A bubble's tip shows the name of the country and amount of wines from that country in the data selection.
