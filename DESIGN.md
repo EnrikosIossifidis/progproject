@@ -25,4 +25,4 @@ Optional
 
 ### List of APIs or D3 plugins
 
-* d3-beeswarm
+d3 beeswarm
