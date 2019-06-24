@@ -17,3 +17,39 @@ Next up was sorting the data by year and organize the wines within each year by 
 
 ### Monday Week 2
 Started with making the index.html page and javascript file. Trying to make the bubble chart. (But mostly refreshing HTML, JS, D3 knowledge because it's +1 year ago that I last touched it.)
+
+### Tuesday Week 2
+Value showed bubble chart is # times a country appears in data selection. Try to make bubble chart by placing next country at slightly different angle in a "ring" of countries (each ring with different radius from centre) 
+
+### Wednesday Week 2
+Further working on bubble chart (fixing angles and radius and calculating bubble coordinates). And begin to self-made timeslider
+
+### Thursday Week 2
+Trying to make axes of histograms. There is a hard bug why axises just won't appear.
+
+### Friday Week 2
+Axises appeared! Now trying to update scales when different bubble is clicked
+
+### Monday Week 3
+Axises values change when different bubble is clicked. Rest of the day trying to make bars.
+
+### Tuesday Week 3
+Bars fixed. Further on the old self-made timeslide is thrown away. New timeslide (plug-in). Trying to adjust bubble chart data on basis of chosen years.
+
+### Wednesday Week 3
+Make bubbles change with chosen years. Further on a begin is made to donut chart. And price categories is added.
+
+### Thursday Week 3
+Timeslider updates when different price categories are picked. Further on: Fixing problems with passing on data and choices between: picked price categories -> years -> bubbles -> hist -> donut.
+
+### Friday Week 3
+Donut chart is minimal working. Further working on fixing data bugs when passing on user choices (especially years-> bubbles, bubbles -> hist). 
+
+### Monday Week 4
+Whole data stream works and is complete. Only issue is that bubble chart is not working optimal and esthetically not so pretty as examples on the internet. So i'm going to let me inspire on the web and change the bubble chart.
+
+### Tuesday Week 4
+### Wednesday Week 4
+### Thursday Week 4
+### Friday Week 4
+PRESENTATIE
