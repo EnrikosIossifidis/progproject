@@ -1,0 +1,28 @@
+.enterCircle {
+	fill: green;
+}
+
+.enterText {
+	fill: black;
+}
+
+.update {
+	fill: #333;
+
+}
+
+#label {
+  position: absolute;
+  left: 10px;
+  font-weight: 100;
+  font-family: "Proxima Nova", "Montserrat", sans-serif;
+}
+
+.hover {
+    fill: yellow;   
+}
+
+#sliderContainer {
+    text-align: center;
+    top: 600px;
+}
