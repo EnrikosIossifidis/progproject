@@ -1,7 +1,5 @@
 function insertPriceLegend() {
 
-	// first element 0 becuase enter().append() doesn't take first element 
-	// of prices for a strange reason
 	prices = ["1: $1 - $25, ","2: $25 - $50, ","3: $50 - $75, ","4: > $75"];
 	pricecatcol = d3.select("#priceLegend")
 

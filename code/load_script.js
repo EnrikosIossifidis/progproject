@@ -300,6 +300,8 @@ function main() {
 
 		// change 'button' colors when clicked
 		d3.select("#yeartextCol1").text(lastvalid)
+			.style("text-anchor", "middle")
+			.style("font-weight", "bold")
 			.on("click", () => {
 
 				if (timeslideText1.style("color") != "red") {
@@ -317,6 +319,7 @@ function main() {
 			});
 
 		d3.select("#yeartextCol2").text(lastvalid)
+			.style("font-weight", "bold")
 			.on("click", () => {
 
 				if (timeslideText2.style("color") != "red") {
@@ -418,6 +421,12 @@ function main() {
 		var verScale = d3.select(".histG").append("g")
 			.attr("class", "histScaleY")
 			.attr("id", "histScaleY");
+
+		var xLabel = d3.select("#histSVG").append("text")
+			.attr("transform", "translate("+ histWidth/2 +","+ histHeight+")")
+			.style("text-anchor", "middle")
+			.style("font-size", "10px")
+			.text("Points");
 
 		// bar wrap element
 		var barWrap = d3.select(".histG").append("g")

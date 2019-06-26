@@ -9,20 +9,31 @@ Everyone has met a person once who talks about wines like he is the only connais
 
 This vizualisation attempts to give a clear view of where you will find per sort wine, the most and the best ones (of which are reviewed). 
 
-### Minimum valuable product
+### Screen shots:
 
-* The user can pick a year (with two dropdown's menu's (from 'year' to 'year')) and price category (checkbox for each category)
-* Bubble chart with a bubble per country. The size of the bubble depends on how many wines are from the country in the dataset, which is based on user's choices. 
-* The bubble size per country changes per year and price category, but the total cluster of bubbles stays together.
-* A bubble's tip shows the name of the country and amount of wines from that country in the data selection.
-* Histogram that shows how many wines there are in each price category in the country that is clicked in the bubble chart. The bars from the histogram change dynamically.
-* Donut chart which shows that shows the distribution of type of grapes in a country which are reviewed (of all score categories).
+### Begin screen:
+![alt text](https://raw.githubusercontent.com/enrikosiossifidis/progproject/doc/welcome_text_user_choices.png)
 
-#### Optional
+####Here you can choose:
 
-* The bubbles move dynamically.
-* A bubble's tip shows beside name and amount of wines (minimum) also the top 5 of most used wine characteristics to describe the wine.
-* Make dropdown for donut chart so that you can choose between score category from the histogram.
+#### Price category:
+Your choice only changes when you pick a different category (so two times choosing 1 does not do anything). If category in selected, then chosen category will be deleted. If category chosen not in current selection, the chosen category will be added.
+
+#### Years:
+No ' year button' clicked, shows all years within price category. If you want a period FROM - Choose Year, then click the left 'button' such that it is red, and slide to the right. If you want period Chosen Year - UNTIL, click the left 'button' such that it is red and slide to the left.
+
+### Bubble chart screen:
+![alt text](https://raw.githubusercontent.com/enrikosiossifidis/progproject/doc/bubble_chart.png)
+
+Here the bubbles are update for each price/year reference. The size of the bubble depends on the number of wines from the country in the chosen dataset. Click a bubble to update the histogram.
+
+### Histogram and Variety Donut:
+
+![alt text](https://raw.githubusercontent.com/enrikosiossifidis/progproject/doc/hist_donut_best_cheapest.png)
+
+The clicked bubble country is shown in a histogram. The x axis represents the points it. Click on a bar to update the donut chart. 
+
+Click on a slice of the donut chart to show the top 5 cheapest wines (we are students) in your chosen category!
 
 ### Data Sources:
 
@@ -31,11 +42,7 @@ https://www.kaggle.com/zynicide/wine-reviews/downloads/wine-reviews.zip/4
 ### External Components
 
 * d3-tip
-* d3-tooltip
-* d3-bar
-* d3-labeler
-* d3-pack
-* d3-force
+* d3-simple slider
 
 ### Similar example: 
 

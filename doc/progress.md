@@ -49,7 +49,11 @@ Donut chart is minimal working. Further working on fixing data bugs when passing
 Whole data stream works and is complete. Only issue is that bubble chart is not working optimal and esthetically not so pretty as examples on the internet. So i'm going to let me inspire on the web and change the bubble chart.
 
 ### Tuesday Week 4
+Made whole bubble chart. Works smoothly, very content!
+
 ### Wednesday Week 4
+Fixed final bugs. Unfortunately CSS editing did not work and assistance was not available so no nice effects...
+
 ### Thursday Week 4
 ### Friday Week 4
 PRESENTATIE
