@@ -36,6 +36,7 @@ for index, row in choicedata.iterrows():
 	# delete wine if no year or price is mentioned
 	if not math.isnan(row['price']):
 		print(index, row['variety'])
+		
 		# calculate the wine's price category
 		priceCat = 0
 		if row['price'] <= 25:

@@ -26,3 +26,17 @@
     text-align: center;
     top: 600px;
 }
+
+text {
+	text-anchor: middle;
+}
+
+exampletext {
+	text-anchor: middle;
+	fill: white;
+}
+
+#UserChoicesYears.yearChoice1{
+	fill: green;
+}
+
