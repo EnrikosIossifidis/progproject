@@ -71,7 +71,6 @@ function getMaximum(arry) {
 			}
 			count ++;
 		}
-		// console.log(lowest, count);
 		return highest
 	} else {
 		return [0,0]

@@ -723,10 +723,7 @@ function main() {
 
 		barWrap = d3.select("#barWrap")
 		barWrap.selectAll("rect").remove();
-		// console.log(barWrap)
-		var counter = 0
 
-		// METHOD WANTED MAAR NIET WIL LUKKEN:
 		var keys = Object.keys(data["points"]); 
 		barWrap.selectAll("rect")
 				.data(keys)
@@ -735,7 +732,6 @@ function main() {
 				.attr("class", "bar")
 			 	.attr("x", function(d,j) {return xScale(d)})
 				.attr("y", function(d,j) {
-					// console.log(xScale(d), d, j,data["points"][d], yScale(data["points"][d]));
 					return yScale(data["points"][d])})
 				.attr("width", xScale.bandwidth())
 				.attr("height", function(d,j) { return (heightFrac*9)-yScale(data["points"][d])})
@@ -793,7 +789,6 @@ function main() {
 	}
 
 	// general parameters
-	// margins
 	var margin = {top: 20, right: 20, bottom: 20, left: 20};
 	var loc1 = 0;
 	var loc2 = 0;
