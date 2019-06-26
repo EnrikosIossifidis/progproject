@@ -14,7 +14,7 @@ This vizualisation attempts to give a clear view of where you will find per sort
 ### Begin screen:
 ![alt text](https://raw.githubusercontent.com/enrikosiossifidis/progproject/doc/welcome_text_user_choices.png)
 
-####Here you can choose:
+#### Here you can choose:
 
 #### Price category:
 Your choice only changes when you pick a different category (so two times choosing 1 does not do anything). If category in selected, then chosen category will be deleted. If category chosen not in current selection, the chosen category will be added.
@@ -31,9 +31,9 @@ Here the bubbles are update for each price/year reference. The size of the bubbl
 
 ![alt text](https://raw.githubusercontent.com/enrikosiossifidis/progproject/doc/hist_donut_best_cheapest.png)
 
-The clicked bubble country is shown in a histogram. The x axis represents the points it. Click on a bar to update the donut chart. 
+#### The clicked bubble country is shown in a histogram. The x axis represents the points it. Click on a bar to update the donut chart. 
 
-Click on a slice of the donut chart to show the top 5 cheapest wines (we are students) in your chosen category!
+#### Click on a slice of the donut chart to show the top 5 cheapest wines (we are students) in your chosen category!
 
 ### Data Sources:
 
