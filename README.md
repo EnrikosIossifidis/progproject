@@ -1,5 +1,5 @@
 #### Enrikos Iossifidis 10805672
-https://enrikosiossifidis.github.io/Data_Processing/Homework/Week6/scripts/linked_views.html
+https://enrikosiossifidis.github.io/progproject/blob/master/index.html
 ### Find Your Vino
 
 ### Problem Statement
