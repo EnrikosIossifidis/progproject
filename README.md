@@ -1,5 +1,5 @@
 #### Enrikos Iossifidis 10805672
-https://enrikosiossifidis.github.io/progproject/blob/master/index.html
+https://enrikosiossifidis.github.io/progproject/index.html
 ### Find Your Vino
 
 ### Problem Statement
