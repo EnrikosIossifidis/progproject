@@ -10,6 +10,42 @@ function insertPriceLegend() {
 		.attr("class", "legendaPrice");
 }
 
+function getText(welcometext) {
+	var client = new XMLHttpRequest();
+	client.open('GET', './doc/'+welcometext+'.txt');
+	client.onreadystatechange = function() {
+		d3.select("#"+welcometext).text(client.responseText);
+	}		
+	client.send();
+}
+
+function addNavigation() {
+
+	var container = d3.select("body").append("div")
+		.attr("class", "container-fluid")
+		.attr("id", "container");
+
+	var navRow = container.append("div")
+		.attr("class", "row")
+		.attr("id","navrow")
+		.append("div").attr("class", "col").attr("id", "navCol")
+
+	navdata = [["Introduction","WelcomeText"], ["Choose Price category & years","UserChoicesPrice"], ["Bubble Chart", "bubblesRow"], ["Histogram & Donut","histdonutRow"]];
+	var navigationBar = navRow.append("nav")
+		.attr("class","navbar navbar-expand-lg navbar-dark sticky-top")
+		.attr("id", "navigationbar")
+		.append("div").attr("class", "row")
+		.append("ul")
+		.attr("class", "navbar-nav")
+		.selectAll("li")
+		.data(navdata)
+		.enter().append("div").attr("class","col-sm-3").append("li").attr("class","nav-item")
+		.append("a").attr("class", "nav-link")
+		.text(function(d) {return d[0]})
+		.attr("href", function(d) {return "#"+d[1]});
+	}
+
+
 function initLegendCircles() {
 		var sizes = [15,25,50,75,100,120];
 		var text = [" 1 - 25", "25 - 100", "100 - 250", "250 - 1000", "1000 - 2500", "> 2500"];
@@ -205,6 +241,5 @@ function updateChoices(priceChoices, choiceCat) {
 	// make timeslide based on price preferences
 	console.log(priceChoices)
 }
-
 
 var margin = {top: 20, bottom:20, right:20, left:20};

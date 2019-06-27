@@ -1,3 +1,9 @@
+.navigationbar {
+	background: #blue;
+	color: #blue;
+}
+
+
 .enterCircle {
 	fill: green;
 }
@@ -9,6 +15,10 @@
 .update {
 	fill: #333;
 
+}
+
+text {
+	text-anchor: middle;
 }
 
 #label {
