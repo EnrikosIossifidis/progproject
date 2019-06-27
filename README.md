@@ -23,13 +23,13 @@ Your choice only changes when you pick a different category (so two times choosi
 No ' year button' clicked, shows all years within price category. If you want a period FROM - Choose Year, then click the left 'button' such that it is red, and slide to the right. If you want period Chosen Year - UNTIL, click the left 'button' such that it is red and slide to the left.
 
 #### Bubble chart screen:
-![alt text](https://raw.githubusercontent.com/enrikosiossifidis/progproject/doc/bubble_chart.png)
+![alt text](https://enrikosiossifidis/progproject/doc/bubble_chart.png)
 
 Here the bubbles are update for each price/year reference. The size of the bubble depends on the number of wines from the country in the chosen dataset. Click a bubble to update the histogram.
 
 #### Histogram and Variety Donut:
 
-![alt text](https://raw.githubusercontent.com/enrikosiossifidis/progproject/doc/hist_donut_best_cheapest.png)
+![alt text](https://enrikosiossifidis/progproject/doc/hist_donut_best_cheapest.png)
 
 ##### The clicked bubble country is shown in a histogram. The x axis represents the points it. Click on a bar to update the donut chart. 
 
