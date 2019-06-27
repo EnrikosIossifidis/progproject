@@ -12,7 +12,7 @@ This vizualisation attempts to give a clear view of where you will find per sort
 ### Screen shots:
 
 #### Begin screen:
-![alt text](https://raw.githubusercontent.com/enrikosiossifidis/progproject/doc/welcome_text_user_choices.png)
+![alt text](https://enrikosiossifidis.github.io/progproject/doc/welcome_text_user_choices.PNG)
 
 #### Here you can choose:
 

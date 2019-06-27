@@ -540,7 +540,7 @@ function main() {
 		var histHeight = $("#bubblesSVG").height()/2;
 		var widthFrac = histWidth/10;
 		var heightFrac = histHeight/10; 
-
+		
 		// x axis with input points
 		var xScale = d3.scaleBand()
 			.domain(Object.keys(data["points"]))
