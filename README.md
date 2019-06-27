@@ -31,9 +31,9 @@ Here the bubbles are update for each price/year reference. The size of the bubbl
 
 ![alt text](https://enrikosiossifidis.github.io/progproject/doc/pictures/hist_donut_best_cheapest.PNG)
 
-##### The clicked bubble country is shown in a histogram. The x axis represents the points it. Click on a bar to update the donut chart. 
+The clicked bubble country is shown in a histogram. The x axis represents the points it. Click on a bar to update the donut chart. 
 
-##### Click on a slice of the donut chart to show the top 5 cheapest wines (we are students) in your chosen category!
+Click on a slice of the donut chart to show the top 5 cheapest wines (we are students) in your chosen category!
 
 ### Data Sources:
 
