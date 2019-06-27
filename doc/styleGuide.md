@@ -7,7 +7,6 @@
 ### White space: 
 One white space between each function + one above each comment line 
 
-
 ### Naming of variables and functions: 
 Use of camelcase
 

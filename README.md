@@ -43,6 +43,8 @@ https://www.kaggle.com/zynicide/wine-reviews/downloads/wine-reviews.zip/4
 
 * d3-tip
 * d3-simple slider
+* d3-hierarchy
+* d3-pie
 
 ### Similar example: 
 
