@@ -2,7 +2,7 @@
 https://enrikosiossifidis.github.io/progproject/
 ## Find Your Vino
 
-## Problem Statement
+## Problem
 Everyone has met a person once who talks about wines like he is the only connaisseur in the world who knows something of it or had a (special) occassion where you were searching and searching for just the right wine for the right price. The only problem is that there are millions of wines, so you get easily drown in the stream of wine supply and end up with a disappointed feeling and even more dissapointing wine...
 
 ## Solution:
