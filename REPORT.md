@@ -1,14 +1,13 @@
 # Report
 
 ## Application description
-![alt text](https://enrikosiossifidis.github.io/progproject/doc/pictures/wholepic.png)
-
 The vizualisation gives you an insight in a dataset which contains wines. The user can make a selection out of this dataset, based on price and year. The chosen data influences the bubble chart (where per bubble the number of wines, from that country, are showed). The chosen country influences the histogram which shows the points of the reviewed wines in that country. The donut chart shows the distribution of varieties within 'point' category of the histogram. When clicked on variety, the top 5 cheapest wines is showed of that selection.
+![alt text](https://enrikosiossifidis.github.io/progproject/doc/pictures/wholepic.png)
 
 ## Technical design:
 ### High-Level
 
-First all data and white- and red varietylist is imported. 
+First all data and white- and red varieties list is imported. 
 
 Then all components are initialized (e.g. svg's, div's, col's, etc. are appended).
 

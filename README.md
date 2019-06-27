@@ -1,5 +1,6 @@
 #### Enrikos Iossifidis 10805672
-https://enrikosiossifidis.github.io/progproject/
+Link to visualization: https://enrikosiossifidis.github.io/progproject/
+Link to introduction video: https://youtu.be/ulOgSmN8GZQ
 ## Find Your Vino
 
 ## Problem

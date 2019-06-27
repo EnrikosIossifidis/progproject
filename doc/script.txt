@@ -1,0 +1,19 @@
+Introduction: 
+
+-Wie gaat het gebruiken? Wijnliefhebbers, maar geen kenners.
+-Wanneer: Snel en eenvoudig een wijn uitkiezen, of bijvoorbeeld de verdeling van wijnscores uit verschillende landen.
+-Waarom: Vind een wijn die aan je wensen voldoet en de moeite waard is.
+
+-Common Way: 
+Stel je wilt een dure wijn (3,4) hebben,
+uit de wat recentere jaren,
+van een land waar je nog niet een wijn van op hebt,
+een hoge score heeft,
+en wit is.  
+
+-Other Way:
+-navigatie pagina
+-niet twee keer zelfde prijsklasse.
+-niet (year1, curval) met curval < year1 en vice versa
+-weer alle jaren selecteren door met knoppen
+-alles weg selecteren om alle prijscategorieen weer te krijgen
